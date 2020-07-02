@@ -2,9 +2,9 @@
 幻影在线教育系统用了微服务技术架构，前后端分离开发的在线教育系统，项目采用SpringBoot+Vue开发。<br>
 * 项目地址：https://github.com/daijiacong/OnlineEducation.git <br>
 
-* [项目前台视频](https://outin-2497ba4793f711eab2bf00163e1a625e.oss-cn-shanghai.aliyuncs.com/sv/737ebfb-1730ad26213/737ebfb-1730ad26213.mp4?Expires=1593692151&OSSAccessKeyId=LTAIwkKSLcUfI2u4&Signature=i8s9y8cKqCsNfb7eePI%2Fg8zzRro%3D)
+* [项目前台视频](https://edu-00.oss-cn-shenzhen.aliyuncs.com/%E5%B9%BB%E5%BD%B1%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E5%89%8D%E5%8F%B0.mp4)
 
-* [项目后台视频](https://outin-2497ba4793f711eab2bf00163e1a625e.oss-cn-shanghai.aliyuncs.com/sv/453098b-1730f3f2316/453098b-1730f3f2316.mp4?Expires=1593692278&OSSAccessKeyId=LTAIwkKSLcUfI2u4&Signature=UAf2CgEmRCGZ7WNNK3TWwFbqXgI%3D)
+* [项目后台视频](https://edu-00.oss-cn-shenzhen.aliyuncs.com/%E5%B9%BB%E5%BD%B1%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E5%90%8E%E5%8F%B0.mp4)
 ## 项目技术栈
 ### 后端技术栈
   1.Spring Boot <br>
