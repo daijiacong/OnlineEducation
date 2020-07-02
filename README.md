@@ -14,8 +14,8 @@
   5.Maven
   6.EasyExcel
 ### 前端技术栈
-  1.Vue.js 
-  2.element-ui
+  1.Vue.js <br>
+  2.element-ui<br>
   3.ECharts
   
 
